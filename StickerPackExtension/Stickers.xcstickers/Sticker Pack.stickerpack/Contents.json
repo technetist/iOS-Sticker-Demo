@@ -1,4 +1,21 @@
 {
+  "stickers" : [
+    {
+      "filename" : "panda-1722702_640.sticker"
+    },
+    {
+      "filename" : "maxpixel.freegreatpicture.com-Orange-Tabby-Cat-Tabby-Striped-Tabby-Orange-Tabby-1732376.sticker"
+    },
+    {
+      "filename" : "maxpixel.freegreatpicture.com-Kitty-Grey-Tabby-Tabby-Gray-Tabby-Cat-Silver-Tabby-1732372.sticker"
+    },
+    {
+      "filename" : "maxpixel.freegreatpicture.com-Kids-Cute-Animal-Calico-Cat-Adorable-Fun-Kitty-1732370.sticker"
+    },
+    {
+      "filename" : "tortie-cat-1732384_640.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
